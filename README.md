@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Sanskarpra07
 - 🌱 I’m currently learning ....
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @instagram: theofficial_sanskar
-- 😄 Pronouns: him/his
-- ⚡ Fun fact: ...
 
 <!---
 Sanskarpra07/Sanskarpra07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
