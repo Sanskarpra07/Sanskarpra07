@@ -2,7 +2,7 @@
 
 # Hi, I'm Sanskar Man Pradhan 👋
 
-### Frontend developer · Content writer · BCA student
+### Content Writer · Content Handler · Static Web Design
 
 Based in Lalitpur, Nepal 🇳🇵
 
@@ -12,15 +12,19 @@ Based in Lalitpur, Nepal 🇳🇵
 
 </div>
 
-## About me
+## What I do
 
-I'm pursuing a **BCA (Bachelor in Computer Applications)** at Mega College and work as a **Content Writer at Longtail E-Media**. Alongside writing, I help with basic server management and technical tasks. I have hands-on experience with WordPress, WooCommerce, and Photoshop, and I'm learning React to grow as a frontend developer.
+I create and manage website content, work with CMS platforms, and build clean static web pages. I also use design tools to support clear, useful digital experiences.
 
-- 🧩 I enjoy building for the web and making content easy to understand.
-- 🌱 Currently learning **React** and sharpening my frontend skills.
-- 🤝 Open to learning, collaboration, and interesting web projects.
+## What I'm doing now
 
-## Tech & tools
+I'm pursuing a **BCA** and building my web development skills. Right now, I'm learning **React** and practicing with HTML, CSS, JavaScript, PHP, and WordPress.
+
+## What's next
+
+I want to grow into frontend development, build more interactive web projects, and keep improving how I bring content and design together.
+
+## Skills & tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -49,13 +53,6 @@ I'm pursuing a **BCA (Bachelor in Computer Applications)** at Mega College and w
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sanskarpra07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-## A little background
-
-- **2023–present** — BCA, Mega College
-- **Aug 2024–present** — Content Writer, Longtail E-Media
-- **Aug–Nov 2023** — Receptionist
-- **2021–2023** — Higher secondary education, Mega College
 
 ---
 
