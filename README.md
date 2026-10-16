@@ -6,23 +6,19 @@
 
 Based in Lalitpur, Nepal 🇳🇵
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanskar-manpradhan.com.np/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskar-pradhan-246622282/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhansanskar86@gmail.com)
+<a href="https://sanskar-manpradhan.com.np/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sanskar-pradhan-246622282/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pradhansanskar86@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ## What I do
 
-I create and manage website content, work with CMS platforms, and build clean static web pages. I also use design tools to support clear, useful digital experiences.
+I create and manage website content, work with CMS platforms, and design clean static web pages.
 
-## What I'm doing now
+## What I'm doing
 
-I'm pursuing a **BCA** and building my web development skills. Right now, I'm learning **React** and practicing with HTML, CSS, JavaScript, PHP, and WordPress.
-
-## What's next
-
-I want to grow into frontend development, build more interactive web projects, and keep improving how I bring content and design together.
+I'm pursuing a **BCA**, learning **React**, and improving my frontend development skills through hands-on projects.
 
 ## Skills & tools
 
@@ -41,16 +37,16 @@ I want to grow into frontend development, build more interactive web projects, a
 
 <div align="center">
 
-<a href="https://github.com/Sanskarpra07">
+<a href="https://github.com/Sanskarpra07" target="_blank" rel="noopener noreferrer">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanskarpra07&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Sanskar's GitHub stats" />
 </a>
-<a href="https://github.com/Sanskarpra07">
+<a href="https://github.com/Sanskarpra07" target="_blank" rel="noopener noreferrer">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskarpra07&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </a>
 
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sanskarpra07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/Sanskarpra07" target="_blank" rel="noopener noreferrer"><img src="https://streak-stats.demolab.com?user=Sanskarpra07&theme=tokyonight&hide_border=true" alt="GitHub streak" /></a>
 
 </div>
 
@@ -60,6 +56,6 @@ I want to grow into frontend development, build more interactive web projects, a
 
 ### Let's connect
 
-Have a project in mind or want to collaborate? [Send me an email](mailto:pradhansanskar86@gmail.com) or visit my [portfolio](https://sanskar-manpradhan.com.np/).
+Have a project in mind or want to collaborate? <a href="mailto:pradhansanskar86@gmail.com" target="_blank" rel="noopener noreferrer">Send me an email</a> or visit my <a href="https://sanskar-manpradhan.com.np/" target="_blank" rel="noopener noreferrer">portfolio</a>.
 
 </div>
