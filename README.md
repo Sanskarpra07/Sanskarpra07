@@ -2,11 +2,11 @@
 
 # Hi, I'm Sanskar Man Pradhan 👋
 
-### Content Writer · Content Handler · Static Web Design
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=520&lines=Content+Writer;Content+Handler;Static+Web+Designer" alt="What I do" />
 
 Based in Lalitpur, Nepal 🇳🇵
 
-<a href="https://sanskar-manpradhan.com.np/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://sanskar-manpradhan.com.np/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sanskar-pradhan-246622282/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:pradhansanskar86@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -22,7 +22,7 @@ I'm pursuing a **BCA**, learning **React**, and improving my frontend developmen
 
 ## Skills & tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -48,6 +48,10 @@ I'm pursuing a **BCA**, learning **React**, and improving my frontend developmen
 
 <a href="https://github.com/Sanskarpra07" target="_blank" rel="noopener noreferrer"><img src="https://streak-stats.demolab.com?user=Sanskarpra07&theme=tokyonight&hide_border=true" alt="GitHub streak" /></a>
 
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Sanskarpra07&style=for-the-badge&color=2E9EF7" alt="Profile views" />
+
 </div>
 
 ---
@@ -57,5 +61,7 @@ I'm pursuing a **BCA**, learning **React**, and improving my frontend developmen
 ### Let's connect
 
 Have a project in mind or want to collaborate? <a href="mailto:pradhansanskar86@gmail.com" target="_blank" rel="noopener noreferrer">Send me an email</a> or visit my <a href="https://sanskar-manpradhan.com.np/" target="_blank" rel="noopener noreferrer">portfolio</a>.
+
+<sub>Thanks for stopping by ✨</sub>
 
 </div>
