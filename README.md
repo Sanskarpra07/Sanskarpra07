@@ -38,10 +38,10 @@ I'm pursuing a **BCA**, learning **React**, and improving my frontend developmen
 <div align="center">
 
 <a href="https://github.com/Sanskarpra07" target="_blank" rel="noopener noreferrer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sanskarpra07&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Sanskar's GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Sanskarpra07&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="Sanskar's GitHub stats" />
 </a>
 <a href="https://github.com/Sanskarpra07" target="_blank" rel="noopener noreferrer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskarpra07&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sanskarpra07&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
 </a>
 
 <br />
